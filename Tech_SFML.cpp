@@ -1,8 +1,10 @@
 ﻿#include <SFML/Graphics.hpp>
+#include "Game.h"
 
 int main()
 {
-    // SFML 2.x 스타일의 생성자
+    // SFML 2 테스트 화면
+    /*
     sf::RenderWindow window(sf::VideoMode(800, 600), "SFML 2.6.1 Test");
 
     sf::CircleShape shape(50.f);
@@ -25,6 +27,11 @@ int main()
         window.draw(shape);
         window.display();
     }
+
+    return 0;
+    */
+    Game game;
+    game.run();
 
     return 0;
 }

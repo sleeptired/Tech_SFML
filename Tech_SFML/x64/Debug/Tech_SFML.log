@@ -1,14 +1,17 @@
-﻿  Tech_SFML.cpp
+﻿  Game.cpp
+  MainMenu.cpp
+C:\Users\user\Desktop\Tech_SFML\MainMenu.cpp(28,73): warning C4244: '인수': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\Tech_SFML\MainMenu.cpp(28,73): warning C4244:         with
+C:\Users\user\Desktop\Tech_SFML\MainMenu.cpp(28,73): warning C4244:         [
+C:\Users\user\Desktop\Tech_SFML\MainMenu.cpp(28,73): warning C4244:             T=float
+C:\Users\user\Desktop\Tech_SFML\MainMenu.cpp(28,73): warning C4244:         ]
+C:\Users\user\Desktop\Tech_SFML\MainMenu.cpp(28,52): warning C4244: '인수': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\Tech_SFML\MainMenu.cpp(28,52): warning C4244:         with
+C:\Users\user\Desktop\Tech_SFML\MainMenu.cpp(28,52): warning C4244:         [
+C:\Users\user\Desktop\Tech_SFML\MainMenu.cpp(28,52): warning C4244:             T=float
+C:\Users\user\Desktop\Tech_SFML\MainMenu.cpp(28,52): warning C4244:         ]
+  Tech_SFML.cpp
+  TestScene.cpp
+  코드를 생성하고 있습니다...
   Tech_SFML.vcxproj -> C:\Users\user\Desktop\Tech_SFML\x64\Debug\Tech_SFML.exe
-  C:\Users\user\Desktop\Tech_SFML\Dependencies\SFML-2.6.1\bin\openal32.dll
-  C:\Users\user\Desktop\Tech_SFML\Dependencies\SFML-2.6.1\bin\sfml-audio-2.dll
-  C:\Users\user\Desktop\Tech_SFML\Dependencies\SFML-2.6.1\bin\sfml-audio-d-2.dll
-  C:\Users\user\Desktop\Tech_SFML\Dependencies\SFML-2.6.1\bin\sfml-graphics-2.dll
-  C:\Users\user\Desktop\Tech_SFML\Dependencies\SFML-2.6.1\bin\sfml-graphics-d-2.dll
-  C:\Users\user\Desktop\Tech_SFML\Dependencies\SFML-2.6.1\bin\sfml-network-2.dll
-  C:\Users\user\Desktop\Tech_SFML\Dependencies\SFML-2.6.1\bin\sfml-network-d-2.dll
-  C:\Users\user\Desktop\Tech_SFML\Dependencies\SFML-2.6.1\bin\sfml-system-2.dll
-  C:\Users\user\Desktop\Tech_SFML\Dependencies\SFML-2.6.1\bin\sfml-system-d-2.dll
-  C:\Users\user\Desktop\Tech_SFML\Dependencies\SFML-2.6.1\bin\sfml-window-2.dll
-  C:\Users\user\Desktop\Tech_SFML\Dependencies\SFML-2.6.1\bin\sfml-window-d-2.dll
-  11개 파일이 복사되었습니다.
+  0개 파일이 복사되었습니다.
