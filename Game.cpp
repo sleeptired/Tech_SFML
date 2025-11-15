@@ -26,7 +26,7 @@ void Game::changeScene(SceneType newSceneType)
     }
     else if (newSceneType == SceneType::TestScene) 
     {
-        newScene = std::make_unique<TestScene>();
+        newScene = std::make_unique<ParticleTestScene>();
     }
 
     if (newScene) 

@@ -7,8 +7,20 @@
       "RelativeMoniker": "D:0:0:{BD92B258-7C2E-4883-BCA9-96EF8AB85116}|Tech_SFML.vcxproj|solutionrelative:TestScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BD92B258-7C2E-4883-BCA9-96EF8AB85116}|Tech_SFML.vcxproj|C:\\Users\\user\\Desktop\\Tech_SFML\\Particle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD92B258-7C2E-4883-BCA9-96EF8AB85116}|Tech_SFML.vcxproj|solutionrelative:Particle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD92B258-7C2E-4883-BCA9-96EF8AB85116}|Tech_SFML.vcxproj|C:\\Users\\user\\Desktop\\Tech_SFML\\Particle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD92B258-7C2E-4883-BCA9-96EF8AB85116}|Tech_SFML.vcxproj|solutionrelative:Particle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BD92B258-7C2E-4883-BCA9-96EF8AB85116}|Tech_SFML.vcxproj|C:\\Users\\user\\Desktop\\Tech_SFML\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BD92B258-7C2E-4883-BCA9-96EF8AB85116}|Tech_SFML.vcxproj|solutionrelative:Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD92B258-7C2E-4883-BCA9-96EF8AB85116}|Tech_SFML.vcxproj|C:\\Users\\user\\Desktop\\Tech_SFML\\MainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD92B258-7C2E-4883-BCA9-96EF8AB85116}|Tech_SFML.vcxproj|solutionrelative:MainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD92B258-7C2E-4883-BCA9-96EF8AB85116}|Tech_SFML.vcxproj|C:\\Users\\user\\Desktop\\Tech_SFML\\MainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -29,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BD92B258-7C2E-4883-BCA9-96EF8AB85116}|Tech_SFML.vcxproj|C:\\Users\\user\\Desktop\\Tech_SFML\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BD92B258-7C2E-4883-BCA9-96EF8AB85116}|Tech_SFML.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD92B258-7C2E-4883-BCA9-96EF8AB85116}|Tech_SFML.vcxproj|C:\\Users\\user\\Desktop\\Tech_SFML\\MainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BD92B258-7C2E-4883-BCA9-96EF8AB85116}|Tech_SFML.vcxproj|solutionrelative:MainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +50,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "Particle.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Tech_SFML\\Particle.cpp",
+              "RelativeDocumentMoniker": "Particle.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Tech_SFML\\Particle.cpp",
+              "RelativeToolTip": "Particle.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-15T16:42:42.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Particle.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Tech_SFML\\Particle.h",
+              "RelativeDocumentMoniker": "Particle.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Tech_SFML\\Particle.h",
+              "RelativeToolTip": "Particle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-15T16:42:17.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "TestScene.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Tech_SFML\\TestScene.cpp",
               "RelativeDocumentMoniker": "TestScene.cpp",
@@ -54,8 +88,7 @@
               "RelativeToolTip": "TestScene.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-13T12:10:14.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T12:10:14.799Z"
             },
             {
               "$type": "Document",
@@ -65,14 +98,14 @@
               "RelativeDocumentMoniker": "TestScene.h",
               "ToolTip": "C:\\Users\\user\\Desktop\\Tech_SFML\\TestScene.h",
               "RelativeToolTip": "TestScene.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-11-13T12:09:59.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MainMenu.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Tech_SFML\\MainMenu.h",
               "RelativeDocumentMoniker": "MainMenu.h",
@@ -80,12 +113,11 @@
               "RelativeToolTip": "MainMenu.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-13T11:54:00.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T11:54:00.952Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "MainMenu.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Tech_SFML\\MainMenu.cpp",
               "RelativeDocumentMoniker": "MainMenu.cpp",
@@ -98,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Game.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Tech_SFML\\Game.cpp",
               "RelativeDocumentMoniker": "Game.cpp",
@@ -106,12 +138,11 @@
               "RelativeToolTip": "Game.cpp",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-13T11:49:15.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T11:49:15.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Game.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Tech_SFML\\Game.h",
               "RelativeDocumentMoniker": "Game.h",
@@ -119,12 +150,11 @@
               "RelativeToolTip": "Game.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-05T03:32:23.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T03:32:23.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Scene.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Tech_SFML\\Scene.h",
               "RelativeDocumentMoniker": "Scene.h",
@@ -137,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Tech_SFML.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Tech_SFML\\Tech_SFML.cpp",
               "RelativeDocumentMoniker": "Tech_SFML.cpp",
@@ -145,8 +175,7 @@
               "RelativeToolTip": "Tech_SFML.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-04T14:01:10.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T14:01:10.5Z"
             }
           ]
         }
